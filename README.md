@@ -1,2 +1,3 @@
-# workshopbots
-Workshop de bots - Neoladies
+# Workshop de bots - Neoladies
+Repositório dos códigos utilizados no workshop =)
+
